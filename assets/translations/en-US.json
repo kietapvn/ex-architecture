@@ -1,0 +1,19 @@
+{
+  "text_no_items": "アイテムはありません",
+  "title_message": "メッセージ",
+  "title_construction_list": "工事一覧",
+  "title_material": "資料",
+  "dialog_ok": "OK",
+  "dialog_cancel": "Cancel",
+  "dialog_content": "Would you like to logout?",
+  "title_home": "新築工事",
+  "tab_top": "TOP",
+  "tab_report": "報告",
+  "tab_message": "メッセージ",
+  "tab_material": "資料",
+  "label_top":"TOP",
+  "label_message":"メッセージ",
+  "label_order":"工事",
+  "label_setting":"設定",
+  "text_logout": "ログアウト"
+}
